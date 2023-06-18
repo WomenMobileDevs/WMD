@@ -20,7 +20,7 @@ If you are passionate about mobile app development and believe in the power of d
 
 For more information and to become a part of our community, visit our Twitter https://twitter.com/WomenMobileDevs.
 
-Contact us at [info@womenmobiledevs.org](https://twitter.com/WomenMobileDevs) for any inquiries or collaboration opportunities.
+Contact us at [twitter](https://twitter.com/WomenMobileDevs) for any inquiries or collaboration opportunities.
 
 Join WMD and embark on an exciting journey of mobile app development excellence!
 
