@@ -1,7 +1,7 @@
 # Welcome to WomenMobileDevs (WMD)
 
 ## About Us
-WomenMobileDevs (wMD) is a dynamic and inclusive community that focuses on fostering gender diversity in the field of mobile app development. We welcome individuals of all genders who are passionate about creating innovative mobile applications and believe in the power of collaboration and knowledge sharing.
+WomenMobileDevs (WMD) is a dynamic and inclusive community that focuses on fostering gender diversity in the field of mobile app development. We welcome individuals of all genders who are passionate about creating innovative mobile applications and believe in the power of collaboration and knowledge sharing.
 
 ## Our Mission
 At wMD, our mission is to provide a supportive environment where women and men come together to learn, grow, and excel in mobile app development. We strive to maintain a balanced gender ratio, recognizing the importance of diverse perspectives and experiences in driving creativity and innovation.
