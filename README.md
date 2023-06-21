@@ -23,7 +23,7 @@ If you are passionate about mobile app development and believe in the power of d
 
 If you identify as female, there's no need to go through this extra step. Simply send me a direct message, and I'll be more than happy to share the invite link with you directly.
 
-Thank you for your understanding and support in fostering a diverse community. We look forward to welcoming new members and embarking on this exciting journey together.
+Thank you for your understanding and support in fostering a diverse community. We look forward to welcoming new members.
 
 For more information and to become a part of our community, visit our Twitter https://twitter.com/WomenMobileDevs.
 
